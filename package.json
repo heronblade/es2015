@@ -1,0 +1,16 @@
+{
+  "name": "ES2015-Testing",
+  "description": "just testing es2015",
+  "version": "0.0.0-ignored",
+  "private": "true",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "babel-cli": "^6.9.0"
+  },
+  "scripts": {
+    "build": "babel src -d lib"
+  }
+}
